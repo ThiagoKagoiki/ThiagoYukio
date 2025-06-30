@@ -21,10 +21,10 @@ Transformo ideias e layouts Figma em interfaces funcionais com HTML, CSS e JavaS
 📫 Entre em contato:
 
 <p align="center">
-  <a href="https://www.instagram.com/lleodreher/" target="_blank">
+  <a href="https://www.instagram.com/thiagoyck/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-dreher" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-kagoiki-32529b2b7/?originalSubdomain=br" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/48991726261" target="_blank">
